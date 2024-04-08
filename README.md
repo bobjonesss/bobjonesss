@@ -1,4 +1,4 @@
-### study materials qt 👋
+###  <h1>materials for study Qt C++ QML Quick</h1>👋
 
 
 <img width="801" alt="Screenshot 2024-04-08 at 18 18 06" src="https://github.com/bobjonesss/bobjonesss/assets/47592554/90c4b9fe-74d4-46f6-ab6b-d6e8360375c5">
