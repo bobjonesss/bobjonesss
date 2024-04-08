@@ -8,9 +8,7 @@
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bobjonesss&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-<hr>
-на ций сторінці https://github.com/bobjonesss
-
+<hr>на ций сторінці https://github.com/bobjonesss
 
 1 **чужий код використовується для навчаня** => rewrite code (перепис коду для навчання)
 
