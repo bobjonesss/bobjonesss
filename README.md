@@ -9,7 +9,7 @@
 </a>
 
 <hr>
-на ций сторинці https://github.com/bobjonesss
+на ций сторінці https://github.com/bobjonesss
 
 1 **чужий код використовується для навчаня** => rewrite code (перепис коду для навчання)
 
