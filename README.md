@@ -22,12 +22,12 @@
 
 <hr>
 
-<h2>**Qt program , Qt soft (best examples)**</h2> 
+<h2>Qt program , Qt soft (best examples)</h2> 
 
 **GRAPHICS:**
-<br>
--LibreCAD is a cross-platform 2D CAD program written in C++17. It can read DXF/DWG files and other <a href=https://github.com/bobjonesss/LibreCAD>LibreCAD</a><br>
--Yet another painting software  <a href=https://github.com/bobjonesss/EasyPaint>EasyPaint</a><br>  
+<br><br>
+=>LibreCAD is a cross-platform 2D CAD program written in C++17. It can read DXF/DWG files and other <a href=https://github.com/bobjonesss/LibreCAD>LibreCAD</a><br>
+-Yet another painting software  <a href=https://github.com/bobjonesss/EasyPaint>EasyPaint</a><br>
 -NJU-Graphics  <a href=https://github.com/bobjonesss/NJU-Graphics>Система компьютерной графики Нанкинского университета</a><br>
 -Mini-GIMP template project for Image processing course. <a href=https://github.com/bobjonesss/image-processing-project-student>image-processing-project-student</a><br>
 -GMTK-0.0.1-Qt  <a href=https://github.com/sarniraula/GMTK-0.0.1-Qt>C++ Based vector graphics software.</a><br>
@@ -35,24 +35,24 @@
 -PGR <a href=https://github.com/bobjonesss/QT-simple-vector-drawing-editor>QT-simple-vector-drawing-editor</a><br>
 
 **GAME:**
-<br>
+<br><br>
 -15 puzzle game with Qt & QML, training project example <a href=https://github.com/smay1613/15-puzzleQt>15-puzzleQt</a><br>
 
 **STADY Qt and examples:**
-<br>
+<br><br>
 -CatLearnQt предоставляет QWidget, Quick, сеть, последовательный порт, базовые библиотеки и примеры. 
 Программное обеспечение корпуса поддерживает переключение стилей и интернационализацию.<a href=https://github.com/bobjonesss/CatLearnQt>CatLearnQt </a><br>
 
 **QML and examples:**
-<br>
+<br><br>
 -How to use a SQLite database in a Qt Quick / QML application.<a href=https://github.com/bobjonesss/qml-sql-example>qml-sql-example </a><br>
 
-**C++ STL and other**
-<br>
+**C++ STL and other:**
+<br><br>
 -Code files by Packt<a href=https://github.com/PacktPublishing/Cpp17-STL-Cookbook>C++17 STL Cookbook </a><br>
 
 **OTHER program and examples technologi:**
-<br>
+<br><br>
 -Qt addressbook training project example <a href=https://github.com/bobjonesss/Qt-AddressBook>Qt-AddressBook </a><br>
 -Convenient Qt table models to work with typical REST-service using JSON as a data transport format <a href=https://github.com/bobjonesss/QtRestJsonModels>MVC REST JSON </a><br>
 
