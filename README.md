@@ -10,13 +10,13 @@
 
 <hr>
 
-**Освітні ліцензії на сторінці https://github.com/bobjonesss для:**
+**Educational licenses on page https://github.com/bobjonesss for:**
 
 1 _"Qt examples are available under commercial licenses from The Qt Company, and under a BSD-3-clause license.
 Educational licenses are available for students and educators in qualified educational institutions or universities.
-See http://qt.io/licensing/ for an overview of Qt licensing."_ look link: https://doc.qt.io/qt-6/licensing.html
+See http://qt.io/licensing/ for an overview of Qt licensing."_  look link: https://doc.qt.io/qt-6/licensing.html
 
-або
+or
 
 1 **чужий код використовується для навчаня** => rewrite code (перепис коду для навчання)
 
