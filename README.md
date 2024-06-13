@@ -9,14 +9,14 @@
 </a>
 
 <hr>
-<quote>
-Примеры Qt доступны по коммерческой лицензии от The Qt Company и по лицензии BSD-3.
-Образовательные лицензии доступны для студентов и преподавателей в квалифицированных учебных заведениях или университетах.
-См. http://qt.io/licensing/ для обзора лицензирования Qt.
-</quote>
-https://doc.qt.io/qt-6/licensing.html
 
-на ций сторінці https://github.com/bobjonesss
+**Освітні ліцензії на сторінці https://github.com/bobjonesss для:**
+
+1 _"Qt examples are available under commercial licenses from The Qt Company, and under a BSD-3-clause license.
+Educational licenses are available for students and educators in qualified educational institutions or universities.
+See http://qt.io/licensing/ for an overview of Qt licensing."_ look link: https://doc.qt.io/qt-6/licensing.html
+
+або
 
 1 **чужий код використовується для навчаня** => rewrite code (перепис коду для навчання)
 
@@ -28,7 +28,7 @@ https://doc.qt.io/qt-6/licensing.html
 
 <hr>
 
-<h2>Qt program , Qt soft (best examples)</h2> 
+<h2>Qt program , Qt soft (best examples and forked repositories)</h2> 
 
 **GRAPHICS:**
 <br>
