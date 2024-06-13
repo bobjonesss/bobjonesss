@@ -20,3 +20,19 @@
   це наприклад для навчання тобто якщо ви придумали якісь софт його використовують в школі для навчання то це може зійти **в принципі за допустимими!!!**
 використання але з і загадкою автора такого софту на правовласника цього сорту " </i> https://youtu.be/BrLWORklrmY?list=PLOlyZEVllXBFXj89J9CLMsMyZkMJS0wtK&t=4895
 
+<hr>
+**Qt program , Qt soft (best examples)**
+LibreCAD is a cross-platform 2D CAD program written in C++17. It can read DXF/DWG files and other <a href=https://github.com/bobjonesss/LibreCAD>LibreCAD</a>
+
+NJU-Graphics  <a href=https://github.com/bobjonesss/NJU-Graphics>Система компьютерной графики Нанкинского университета</a>
+Mini-GIMP template project for Image processing course. <a href=https://github.com/bobjonesss/image-processing-project-student>image-processing-project-student</a>
+GMTK-0.0.1-Qt  <a href=https://github.com/sarniraula/GMTK-0.0.1-Qt>C++ Based vector graphics software.</a>
+A Qt5 application to experiment vector graphic shaders <a href=https://github.com/bobjonesss/qt5-vector-graphic-shaders>qt5-vector-graphic-shaders</a>
+PGR <a href=https://github.com/bobjonesss/QT-simple-vector-drawing-editor>QT-simple-vector-drawing-editor</a>
+
+========
+
+Qt addressbook training project example <a href=https://github.com/bobjonesss/Qt-AddressBook>Qt-AddressBook </a>
+Convenient Qt table models to work with typical REST-service using JSON as a data transport format <a href=https://github.com/bobjonesss/QtRestJsonModels>MVC REST JSON </a>
+
+=======
