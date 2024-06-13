@@ -26,7 +26,7 @@
 
 **GRAPHICS:**
 <br><br>
-=>LibreCAD is a cross-platform 2D CAD program written in C++17. It can read DXF/DWG files and other <a href=https://github.com/bobjonesss/LibreCAD>LibreCAD</a><br>
+* LibreCAD is a cross-platform 2D CAD program written in C++17. It can read DXF/DWG files and other <a href=https://github.com/bobjonesss/LibreCAD>LibreCAD</a><br>
 -Yet another painting software  <a href=https://github.com/bobjonesss/EasyPaint>EasyPaint</a><br>
 -NJU-Graphics  <a href=https://github.com/bobjonesss/NJU-Graphics>Система компьютерной графики Нанкинского университета</a><br>
 -Mini-GIMP template project for Image processing course. <a href=https://github.com/bobjonesss/image-processing-project-student>image-processing-project-student</a><br>
