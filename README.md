@@ -39,6 +39,8 @@ or
 * GMTK-0.0.1-Qt  <a href=https://github.com/sarniraula/GMTK-0.0.1-Qt>C++ Based vector graphics software.</a><br>
 * A Qt5 application to experiment vector graphic shaders <a href=https://github.com/bobjonesss/qt5-vector-graphic-shaders>qt5-vector-graphic-shaders</a><br>
 * PGR <a href=https://github.com/bobjonesss/QT-simple-vector-drawing-editor>QT-simple-vector-drawing-editor</a><br>
+* ImageViewer <a href=https://github.com/bobjonesss/ImageViewer>qt practice project ImageViewer</a><br>
+
 
 **GAME:**
 <br>
@@ -46,20 +48,44 @@ or
 
 **STADY Qt and examples:**
 <br>
+* Поделитесь различными примерами Qt, возможно они будут полезны~ <a href=https://github.com/bobjonesss/QtExamples>QtExamples  </a><br>
+* A set of introductory tutorials on C/C++ Qt graphical development created by the author, with complete cases and source code.<a href=https://github.com/bobjonesss/Qt-Tutorial>Qt-Tutorial</a><br>
 * CatLearnQt предоставляет QWidget, Quick, сеть, последовательный порт, базовые библиотеки и примеры. 
 Программное обеспечение корпуса поддерживает переключение стилей и интернационализацию.<a href=https://github.com/bobjonesss/CatLearnQt>CatLearnQt </a><br>
 
 **QML and examples:**
 <br>
+* Todo list application made via QML & JS (dark/light mode) <a href=https://github.com/bobjonesss/tutuList>tutuList </a><br>
 * How to use a SQLite database in a Qt Quick / QML application.<a href=https://github.com/bobjonesss/qml-sql-example>qml-sql-example </a><br>
 
 **C++ STL and other:**
 <br>
 * Code files by Packt<a href=https://github.com/PacktPublishing/Cpp17-STL-Cookbook>C++17 STL Cookbook </a><br>
 
+levonoganesyan/Algorithms
+https://github.com/bobjonesss/Algorithms
+Algorithms
+
+
 **OTHER program and examples technologi:**
 <br>
+* Example Qt application that connects to SQL Server and displays a table from the database <a href=https://github.com/bobjonesss/qt-sql-example>qt-sql-example </a><br>
 * Qt addressbook training project example <a href=https://github.com/bobjonesss/Qt-AddressBook>Qt-AddressBook </a><br>
 * Convenient Qt table models to work with typical REST-service using JSON as a data transport format <a href=https://github.com/bobjonesss/QtRestJsonModels>MVC REST JSON </a><br>
+
+
+Lightweight combobox widget that uses checkboxes for selecting multiple items. QComboBox descedant.
+https://github.com/bobjonesss/QCheckboxCombo
+QCheckboxCombo
+
+Alternative Qt model class to handle with SQL database tables.
+https://github.com/bobjonesss/LSqlTableModel
+LSqlTableModel
+
+
+alimoghanni/QtProject
+https://github.com/bobjonesss/QtProject
+QtProject
+
 
 <hr>
