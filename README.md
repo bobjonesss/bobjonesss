@@ -72,6 +72,7 @@ See http://qt.io/licensing/ for an overview of Qt licensing."_  look link: https
 <br>
 * Code files by Packt<a href=https://github.com/PacktPublishing/Cpp17-STL-Cookbook>C++17 STL Cookbook </a><br>
 * levonoganesyan/Algorithms https://github.com/bobjonesss/Algorithms Algorithms
+* A variety of encryption algorithms https://github.com/bobjonesss/Encryption-Algorithms Encryption-Algorithms
 
 **for Android:**
 <br>
