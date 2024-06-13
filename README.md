@@ -16,9 +16,12 @@
 Educational licenses are available for students and educators in qualified educational institutions or universities.
 See http://qt.io/licensing/ for an overview of Qt licensing."_  look link: https://doc.qt.io/qt-6/licensing.html
 
-or for Ukrainian:
+2 for Ukrainian:
+
 1 **чужий код використовується для навчаня** => rewrite code (перепис коду для навчання)
+
 2 **із вказівкою на автора та стороннє авторство!**
+
 *PS: <i>1:21:29 не забувайте про те що є допустимим використання софта без дозволу **в українському законодавстві** 
   це наприклад для навчання тобто якщо ви придумали якісь софт його використовують в школі для навчання то це може зійти **в принципі за допустимими!!!**
 використання але з і загадкою автора такого софту на правовласника цього сорту " look link:  </i> https://youtu.be/BrLWORklrmY?list=PLOlyZEVllXBFXj89J9CLMsMyZkMJS0wtK&t=4895
@@ -84,7 +87,9 @@ or for Ukrainian:
 * alimoghanni/QtProject https://github.com/bobjonesss/QtProject QtProject
 * Opensource high easily expandable SQL-manager desktop application https://github.com/bobjonesss/polymorph-sql polymorph-sql
 * Qt-SQLite-UserManager https://github.com/bobjonesss/Qt-SQLite-UserManager
-* Crack legacy zip encryption with Biham and Kocher's known plaintext attack. https://github.com/bobjonesss/bkcrack 
+* Crack legacy zip encryption with Biham and Kocher's known plaintext attack. https://github.com/bobjonesss/bkcrack
+* Alarm , Timer , Stopwatch, Calendar, Private message, Tabata-timer. https://github.com/bobjonesss/personal-timer
+* A cross platform Win&Linux for manage students/classs (unlimited , customization program titles) via Qt & Sqlite https://github.com/bobjonesss/simple-class-manager
 
 
 * Advanced Docking System for Qt https://github.com/githubuser0xFFFF/Qt-Advanced-Docking-System 
