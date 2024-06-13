@@ -39,6 +39,7 @@ or
 * GMTK-0.0.1-Qt  <a href=https://github.com/sarniraula/GMTK-0.0.1-Qt>C++ Based vector graphics software.</a><br>
 * A Qt5 application to experiment vector graphic shaders <a href=https://github.com/bobjonesss/qt5-vector-graphic-shaders>qt5-vector-graphic-shaders</a><br>
 * PGR <a href=https://github.com/bobjonesss/QT-simple-vector-drawing-editor>QT-simple-vector-drawing-editor</a><br>
+* Practical and minimal image viewer https://github.com/bobjonesss/qView qView<br>
 * ImageViewer <a href=https://github.com/bobjonesss/ImageViewer>qt practice project ImageViewer</a><br>
 
 **GAME:**
@@ -51,16 +52,30 @@ or
 * A set of introductory tutorials on C/C++ Qt graphical development created by the author, with complete cases and source code.<a href=https://github.com/bobjonesss/Qt-Tutorial>Qt-Tutorial</a><br>
 * CatLearnQt предоставляет QWidget, Quick, сеть, последовательный порт, базовые библиотеки и примеры. 
 Программное обеспечение корпуса поддерживает переключение стилей и интернационализацию.<a href=https://github.com/bobjonesss/CatLearnQt>CatLearnQt </a><br>
+* Создаем сложные интерфейсы и спецэффекты на базе Qt. Часть I - II https://github.com/bobjonesss/HabrQtDemos HabrQtDemos
+* IoC container classes for Qt based projects (C++) https://github.com/bobjonesss/qt-dependency-container qt-dependency-container
+* Qt5 tutorial by ZetCode (rewrite code). рерайт кода из сайта = переработан код, в целях изучения! https://github.com/bobjonesss/Qt5_tutorial_by_ZetCode Qt5_tutorial_by_ZetCode
+* Qt 6. Разработка оконных приложений на C++ ((переработан код, в целях изучения)) https://github.com/bobjonesss/Qt_6_Razrabotka_okonnyh_prilojeniiy_na_Cpp Qt_6_Razrabotka_okonnyh_prilojeniiy_na_Cpp
+* Программирование на языке С++ в среде Qt Creator. ( рерайт кода из книги = переработан код, в целях изучения!) https://github.com/bobjonesss/Programmirovanie_na_jazyke_CPP_v_srede_Qt_Creator
+* Конова Е. А. Алгоритмы и программы. Язык С++ : учебное пособие для СПО / Е. А. Конова, Г. А. Поллак. — 3е изд., стер. — Санкт-Петербург : Лань, 2022 
+ https://github.com/bobjonesss/Algoritmy_i_programmy_Yazyka_cpp Algoritmy_i_programmy_Yazyka_cpp
+*
 
 **QML and examples:**
 <br>
 * Todo list application made via QML & JS (dark/light mode) <a href=https://github.com/bobjonesss/tutuList>tutuList </a><br>
 * How to use a SQLite database in a Qt Quick / QML application.<a href=https://github.com/bobjonesss/qml-sql-example>qml-sql-example </a><br>
+* LetsChat Chat Application idea built in Qt/QML. Its just a hobby project, but feel free to chyme in if you have ideas. https://github.com/bobjonesss/LetsChat LetsChat
+* Arboreus.Systems examples || PARTLY Qt/QML Qt 5 / Qt 6 https://github.com/bobjonesss/arboreus_examples  arboreus_examples
 
 **C++ STL and other:**
 <br>
 * Code files by Packt<a href=https://github.com/PacktPublishing/Cpp17-STL-Cookbook>C++17 STL Cookbook </a><br>
 * levonoganesyan/Algorithms https://github.com/bobjonesss/Algorithms Algorithms
+
+**for Android:**
+<br>
+* OpenSSL scripts and bins for Android (useful for Qt on Android apps) https://github.com/bobjonesss/android_openssl
 
 **OTHER program and examples technologi:**
 <br>
@@ -70,5 +85,10 @@ or
 * Lightweight combobox widget that uses checkboxes for selecting multiple items. QComboBox descedant. https://github.com/bobjonesss/QCheckboxCombo QCheckboxCombo
 * Alternative Qt model class to handle with SQL database tables. https://github.com/bobjonesss/LSqlTableModel LSqlTableModel*
 * alimoghanni/QtProject https://github.com/bobjonesss/QtProject QtProject
- 
+* Opensource high easily expandable SQL-manager desktop application https://github.com/bobjonesss/polymorph-sql polymorph-sql
+* Qt-SQLite-UserManager https://github.com/bobjonesss/Qt-SQLite-UserManager
+* Crack legacy zip encryption with Biham and Kocher's known plaintext attack. https://github.com/bobjonesss/bkcrack 
+
+
+* Advanced Docking System for Qt https://github.com/githubuser0xFFFF/Qt-Advanced-Docking-System 
 <hr>
