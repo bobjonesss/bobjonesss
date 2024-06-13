@@ -35,9 +35,12 @@ A Qt5 application to experiment vector graphic shaders <a href=https://github.co
 PGR <a href=https://github.com/bobjonesss/QT-simple-vector-drawing-editor>QT-simple-vector-drawing-editor</a><br>
 
 ========
-**OTHER:**
+**STADY Qt and examples:**
 
 CatLearnQt предоставляет QWidget, Quick, сеть, последовательный порт, базовые библиотеки и примеры. Программное обеспечение корпуса поддерживает переключение стилей и интернационализацию.
+<a href=https://github.com/bobjonesss/CatLearnQt>CatLearnQt </a><br>
+
+**OTHER program and examples technologi:**
 
 Qt addressbook training project example <a href=https://github.com/bobjonesss/Qt-AddressBook>Qt-AddressBook </a><br>
 Convenient Qt table models to work with typical REST-service using JSON as a data transport format <a href=https://github.com/bobjonesss/QtRestJsonModels>MVC REST JSON </a><br>
