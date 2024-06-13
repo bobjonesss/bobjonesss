@@ -41,7 +41,6 @@ or
 * PGR <a href=https://github.com/bobjonesss/QT-simple-vector-drawing-editor>QT-simple-vector-drawing-editor</a><br>
 * ImageViewer <a href=https://github.com/bobjonesss/ImageViewer>qt practice project ImageViewer</a><br>
 
-
 **GAME:**
 <br>
 * 15 puzzle game with Qt & QML, training project example <a href=https://github.com/smay1613/15-puzzleQt>15-puzzleQt</a><br>
@@ -61,31 +60,15 @@ or
 **C++ STL and other:**
 <br>
 * Code files by Packt<a href=https://github.com/PacktPublishing/Cpp17-STL-Cookbook>C++17 STL Cookbook </a><br>
-
-levonoganesyan/Algorithms
-https://github.com/bobjonesss/Algorithms
-Algorithms
-
+* levonoganesyan/Algorithms https://github.com/bobjonesss/Algorithms Algorithms
 
 **OTHER program and examples technologi:**
 <br>
 * Example Qt application that connects to SQL Server and displays a table from the database <a href=https://github.com/bobjonesss/qt-sql-example>qt-sql-example </a><br>
 * Qt addressbook training project example <a href=https://github.com/bobjonesss/Qt-AddressBook>Qt-AddressBook </a><br>
 * Convenient Qt table models to work with typical REST-service using JSON as a data transport format <a href=https://github.com/bobjonesss/QtRestJsonModels>MVC REST JSON </a><br>
-
-
-Lightweight combobox widget that uses checkboxes for selecting multiple items. QComboBox descedant.
-https://github.com/bobjonesss/QCheckboxCombo
-QCheckboxCombo
-
-Alternative Qt model class to handle with SQL database tables.
-https://github.com/bobjonesss/LSqlTableModel
-LSqlTableModel
-
-
-alimoghanni/QtProject
-https://github.com/bobjonesss/QtProject
-QtProject
-
-
+* Lightweight combobox widget that uses checkboxes for selecting multiple items. QComboBox descedant. https://github.com/bobjonesss/QCheckboxCombo QCheckboxCombo
+* Alternative Qt model class to handle with SQL database tables. https://github.com/bobjonesss/LSqlTableModel LSqlTableModel*
+* alimoghanni/QtProject https://github.com/bobjonesss/QtProject QtProject
+ 
 <hr>
